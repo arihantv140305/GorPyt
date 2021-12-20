@@ -233,7 +233,8 @@ def main():
         celebrate(player[0],tie=True)
     time.sleep(2)
     
-main()
+if __name__ = "__main__":
+   main()
 
     
 
