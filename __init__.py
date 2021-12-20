@@ -156,7 +156,7 @@ def main():
                     player[x].x = y*64+check(x,20,44)
                     player[x].y = build[y].height+22.5
                     player[x].img = g.Image(g.Point(player[x].x,player[x].y),
-                                            'data\\p'+str(x+1)+'.gif')
+                                            'GorPyt\\data\\p'+str(x+1)+'.gif')
                     player[x].img.draw(win)
         
         ball.x = player[pchance].x
