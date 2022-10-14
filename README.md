@@ -1,3 +1,4 @@
 # GorPyt
-this is a great game.
-after every entry you have to click on the screen to continue
+this is a simple game written by me as a lame copy of pocket tanks.
+you need graphics.py for this game.
+type command: 'pip install graphics.py' in cmd
